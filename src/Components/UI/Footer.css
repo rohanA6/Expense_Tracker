@@ -1,0 +1,12 @@
+.footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.footer p {
+    padding: 3rem;
+    color: aliceblue;
+    font-size: large;
+}

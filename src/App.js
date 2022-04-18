@@ -4,6 +4,7 @@ import "./App.css";
 import Expenses from "./Components/Expenses/Expenses";
 // import ExpensesFilter from "./Components/Expenses/ExpensesFilter";
 import NowExpense from "./Components/NewExpense/NewExpense";
+import Footer from "./Components/UI/Footer";
 
 const DUMMY_EXPENSES = [
   {
@@ -46,6 +47,7 @@ function App() {
     <div className="App">
       <NowExpense onAddExpense={addExpenseHandler}/>
       <Expenses items={expenses}/>
+      <Footer />
     </div>
   );
 }
