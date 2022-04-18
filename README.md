@@ -1,4 +1,4 @@
-# Expense Tracker 👀
+# - Expense Tracker 👀
 
 ### The first ReactJS project I made 
 ### This is a very simple and basic entry level project, and the Main Focous of this project is to learn about reuseing coponent and hooks.
