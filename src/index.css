@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@600&family=Lobster&family=Secular+One&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+   font-family: 'Anek Bangla', sans-serif;
+}
+
+body{
+    margin: 0px;
+    background-color: #393E46;
+}
+
